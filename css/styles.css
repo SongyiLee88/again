@@ -2,9 +2,13 @@
 @import "reset.css";
 @import "status-bar.css";
 @import "variables.css";
+@import "nav-bar.css";
+@import "screen-header.css";
+@import "user-components.css";
 body{
-    background-color: bisque;
+    
     font-family: 'Open Sans', sans-serif;    
+    
 }
 
 body {
@@ -68,3 +72,6 @@ body {
       color: inherit;
       font-size: 13px;
   }
+
+
+  
